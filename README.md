@@ -8,8 +8,8 @@ This is my solution to the [QR code component challenge](https://www.frontendmen
 
 ## 🔗 Links
 
-- Live Site URL: [https://bruchno.github.io/qr-code-component/](https://bruchno.github.io/qr-code-component/)
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-flexbox-Bruchno](https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-flexbox-Bruchno)
+Live Site URL: [https://bruchno.github.io/qr-code-component/]
+(https://bruchno.github.io/qr-code-component/)
 
 ## 🛠️ Built with
 
